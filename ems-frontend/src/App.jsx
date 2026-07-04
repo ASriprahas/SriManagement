@@ -8,7 +8,7 @@ import {
 
 import Login from "./components/Login";
 
-import SideBarComp from "./components/SideBarComp";
+import SidebarComp from "./components/SidebarComp";
 
 import List_Emp_Components
 from "./components/List_Emp_Components";
@@ -17,7 +17,7 @@ import ManageEmployees
 from "./components/ManageEmployees";
 
 import EmployeeComp
-from "./components/EmployeeComp";
+from "./components/Employeecomp";
 
 import HeaderComp
 from "./components/HeaderComp";

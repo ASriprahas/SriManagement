@@ -53,7 +53,7 @@ function App() {
 
               <div className="d-flex">
 
-                <SideBarComp />
+                <SidebarComp />
 
                 <div className="container-fluid main-content">
 
@@ -82,7 +82,7 @@ function App() {
 
               <div className="d-flex">
 
-                <SideBarComp />
+                <SidebarComp />
 
                 <div className="container-fluid main-content">
 
@@ -111,11 +111,11 @@ function App() {
 
               <div className="d-flex">
 
-                <SideBarComp />
+                <SidebarComp />
 
                 <div className="container-fluid main-content">
 
-                  <EmployeeComp />
+                  <Employeecomp />
 
                 </div>
 
@@ -140,11 +140,11 @@ function App() {
 
               <div className="d-flex">
 
-                <SideBarComp />
+                <SidebarComp />
 
                 <div className="container-fluid main-content">
 
-                  <EmployeeComp />
+                  <Employeecomp />
 
                 </div>
 

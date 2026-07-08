@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-const REST_API_BASE_URL = "https://srimanagement-production-ac37.up.railway.app";
+const REST_API_BASE_URL =
+    'https://srimanagement-production-ac37.up.railway.app/api/employees';
 
 // GET ALL EMPLOYEES
 

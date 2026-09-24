@@ -200,5 +200,5 @@ The exact API paths depend on the implementation.
 B.Tech – Computer Science and Business Systems
 VIT-AP University
 
-GitHub: YOUR_GITHUB_PROFILE
-LinkedIn: YOUR_LINKEDIN_PROFILE
+GitHub: https://github.com/ASriprahas
+LinkedIn: https://www.linkedin.com/in/sri-prahas-0396b1330/
